@@ -138,7 +138,7 @@ L = []
 Training loop for different number of neurons.
 '''
 
-ns = [40,60,80,100,120,140,160,180,200]
+ns = [40,80,120,160,200]
 for n in ns:
     
 
